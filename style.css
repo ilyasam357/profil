@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    @media only screen and (max-width:860px) {
+        width: 100%;
+    }
+}
+
+
+.main{
+    background-color: greenyellow;
+    height: 200px;
+    width: 586px;
+    border: black 2px solid;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 150px;
+    height: 180px;
+    padding: 12px;
+    
+}
+.data{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+   
+}
